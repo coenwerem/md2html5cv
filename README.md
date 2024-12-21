@@ -20,7 +20,7 @@ Once you have your Markdown CV ready, you may then use `md2html5cv` to convert i
 - Install [NodeJS](https://nodejs.org/en/download/package-manager) for your platform.
 - Install the required `npm` dependencies (see section above).
 - Clone this repo to a directory of your choosing with `git clone https://github.com/coenwerem/md2html5cv.git`.
-- Generate your markdown CV (see section above) and copy it to the `md2html5cv` repo parent directory.
+- Generate your Markdown CV (see section above) and copy the `.md` file to the `md2html5cv` repo parent directory.
 - Run `cd md2html5cv` to enter the root directory of the repo.
 - [**Optional**]: Edit the `cv_template.html` file to use your own CSS. **Warning**: Do not change the body of the html template unless you know what you are doing, as changing the template's body carelessly can cause the entire conversion process to fail altogether.
 - Run `node md2html5cv.js`
