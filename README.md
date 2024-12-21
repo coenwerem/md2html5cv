@@ -29,8 +29,8 @@ A file named `generated-cv.html` should now be in the repo's parent directory wi
 
 ## Alternatives
 Should you find the above process a bit too much or don't quite get the results you desire (open an issue if it's a problem with the tool and I will try to get to it as soon as I can), you may try the below alternatives:
-- [`pdf2htmlEX`](https://github.com/pdf2htmlEX/) (fork of the original but discontinued [pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) repo);
-- [`pdf2html`](https://github.com/shebinleo/pdf2html#readme).
+- [`pdf2html`](https://github.com/shebinleo/pdf2html#readme);
+- [`pdf2htmlEX`](https://github.com/pdf2htmlEX/) (fork of the original but discontinued [pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) repo).
 
 However, note that while these services promise to render HTML5 from PDF directly and quite reliably, they may be a bit sophisticated to get up and running for the uninitiated or may have limited or nonexistent cross-platform support ([`pdf2htmlEX` builds will fail on macOS](https://github.com/pdf2htmlEX/pdf2htmlEX/wiki/Building), for instance).
 
