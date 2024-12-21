@@ -35,4 +35,4 @@ Should you find the above process a bit too much or don't quite get the results 
 However, note that while these services promise to render HTML5 from PDF directly and quite reliably, they may be a bit sophisticated to get up and running for the uninitiated or may have limited or nonexistent cross-platform support ([`pdf2htmlEX` builds will fail on macOS](https://github.com/pdf2htmlEX/pdf2htmlEX/wiki/Building), for instance).
 
 ## Issues
-Let me know if there are issues with using `md2html5cv`. Also, if you find the utility helpful, I'd appreciate it if you could kindly star the repo. :)
+Let me know if you run into any issue with using `md2html5cv`. Also, if you find the utility helpful, I'd appreciate it if you could kindly star the repo. :)
