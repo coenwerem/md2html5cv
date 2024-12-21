@@ -16,7 +16,7 @@ Except you already have your CV in `.md` format, rewriting your CV from scratch 
 - Install [NodeJS](https://nodejs.org/en/download/package-manager) for your platform.
 - Install the required `npm` dependencies (see section above).
 - Clone this repo to a directory of your choosing with `git clone https://github.com/coenwerem/md2html5cv.git`
-- Generate your markdown CV (see section above) and copy it to the `md2html5cv` repo's parent directory.
+- Generate your markdown CV (see section above) and copy it to the `md2html5cv` repo parent directory.
 - Run `cd md2html5cv` to enter the root directory of the repo.
 - Run `node md2html5cv.js`
 
