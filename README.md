@@ -1,5 +1,5 @@
 ## Intro
-Utility for automatically generating a HTML5 CV from Markdown. To change the CV's format, carefully edit the CV template (`cv_template.html`) file located in the `template` directory. 
+`md2html5cv` is a utility for automatically generating a responsive HTML5 CV from Markdown. To change the CV's format, carefully edit the CV template (`cv_template.html`) file located in the `template` directory. 
 The CV template uses [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/) for styling components, but you are welcome to use your own custom CSS! For a quick preview of a sample output of `md2html5cv`, see the [`sample_cv.html`](sample/sample_cv.html) file produced from the [`sample_cv.md`](sample/sample_cv.md) file. The sample CV has been tailored for academic positions, but feel free to adapt it to your specific needs.
 
 ## Dependencies
