@@ -1,6 +1,9 @@
 # IDE
 .vscode/
 
+# Images
+.DS_Store
+
 # Logs
 logs
 *.log
